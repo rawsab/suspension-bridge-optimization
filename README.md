@@ -1,7 +1,7 @@
 # 🏗️ Cost & Load Optimization of Standardized Suspension Bridges Using Calculus and Structural Analysis
 > By Rawsab Said
 
-To access this report, open the ```Said_Rawsab_EE_Final_2022.pdf``` file available in the repository.
+**To access this report, open the** ```Said_Rawsab_EE_Final_2022.pdf``` **file available in the repository.**
 
 ## 💭 About This Report
 
@@ -12,6 +12,7 @@ In addition to the mathematical analysis, empirical data was interpreted to form
 Drawing upon the mathematical investigations detailed above, the cost-optimizing equations were implemented in a practical context, culminating in the visualization of a potential bridge between Tuas and Jurong Island, Singapore's two major industrial districts. The proposed bridge represents an innovative solution to the transportation of industrial goods and the reduction of road pollution, providing a direct connection between the two major areas for more efficient movement of goods and services.
 
 ## 🔎 Preview
+***Below is a preview of some of the relevant figures used in the research paper:***
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45187177/225530679-0be09d8e-439a-45a2-b3a1-5d59b1a43f12.png" alt="Screenshot of Program" width="800"/>
